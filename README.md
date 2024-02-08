@@ -21,28 +21,28 @@ The Data Set is collection of drone images from a Mango Orchards from Uttar Prad
 ## The flow of the code with one example:
 
 ## Original Image 
-![img2](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/de1f9490-abe6-470c-8132-a7e94183fe75)
+![img1](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/71136812/2a80b68f-facd-46fe-89fc-fe13975c33a4)
 
 ## After Performing K-Means and removing one cluster
-![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/de3e3f86-1fb3-476c-929c-b43bade09da3)
+![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/71136812/b340c606-bede-4005-b516-8c22f747133f)
 
 ## After Performing DBSCAN and removing a range of clusters
-![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/8551210b-f646-4fa7-a0b9-e7e2e360769d)
+![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/71136812/06dca782-c966-457a-a85b-c4f795cef56a)
 
 ## Using Canny edge detector and then find contours
-![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/618fb2a9-245b-4884-84d6-59cc4e0590b0)
+![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/71136812/59bd465a-a21c-47eb-8e3c-d77c05d6a7a4)
 
 ## Find bounding boxes formed after edge detection on images that have been clustered by DBSCAN
-![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/135cbe46-9f12-4d38-b24c-f4b89a974d8f)
+![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/71136812/9b6a9ce1-faf4-4de2-b1a7-2e4eda9758de)
 
 ## Find bounding boxes formed after edge detection on images that have been clustered by K-Means
-![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/43864231-72bc-44d1-bc97-8d153049b3a3)
+![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/71136812/b7f58016-f17b-48f4-86ad-71fb77ef8bd0)
 
 ## Appling Segment Anything Model
 ![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/05d438ef-6e2d-446d-9c84-9720a9bdd16a)
 
 ## Taking Contour Centers and sending it to SAM
-
+![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/71136812/7a952dd1-8844-45d8-9fbb-e297f07af9a1)
 
  ## References
 
