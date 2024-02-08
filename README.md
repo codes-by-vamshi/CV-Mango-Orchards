@@ -18,15 +18,7 @@ Our main goal is to ensure the well-being of trees by optimizing sunlight penetr
 ## Note: 
 The Data Set is collection of drone images from a Mango Orchards from Uttar Pradesh, India. As the Data Set is from a Research Project and is not available for the public, we are providing a sample of 5 images only.
 
-## References
-
-  [0] https://github.com/sanjanprakash/Color-based-Image-Segmentation-using-K-Means-clustering
-  
-  [1] https://link.springer.com/chapter/10.1007/978-3-642-27311-7_79
-  
-  [2] https://www.modelbit.com/blog/deploying-a-segment-anything-image-recognition-model-to-a-rest-endpoint
-
-## The flow of the code with one example
+## The flow of the code with one example:
 
 ## Original Image 
 ![img2](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/de1f9490-abe6-470c-8132-a7e94183fe75)
@@ -47,4 +39,10 @@ The Data Set is collection of drone images from a Mango Orchards from Uttar Prad
 ![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/43864231-72bc-44d1-bc97-8d153049b3a3)
 
 
- 
+ ## References
+
+  [0] https://github.com/sanjanprakash/Color-based-Image-Segmentation-using-K-Means-clustering
+  
+  [1] https://link.springer.com/chapter/10.1007/978-3-642-27311-7_79
+  
+  [2] https://www.modelbit.com/blog/deploying-a-segment-anything-image-recognition-model-to-a-rest-endpoint
