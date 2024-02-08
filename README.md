@@ -15,6 +15,8 @@ Our main goal is to ensure the well-being of trees by optimizing sunlight penetr
   4.Used pre trained Segment Anything Model(SAM) by meta.
 
   5.We used the the centers of the bounding boxes from step 3 to segment the trees using SAM.
+## Note: 
+The Data Set is collection of drone images from a Mango Orchards from Uttar Pradesh, India. As the Data Set is from a Research Project and is not available for the public, we are providing a sample of 5 images only.
 
 ## References
 
