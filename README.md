@@ -39,7 +39,7 @@ The Data Set is collection of drone images from a Mango Orchards from Uttar Prad
 ![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/71136812/b7f58016-f17b-48f4-86ad-71fb77ef8bd0)
 
 ## Appling Segment Anything Model
-![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/05d438ef-6e2d-446d-9c84-9720a9bdd16a)
+![Capture](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/47e75647-801f-487a-9529-9dff5315cdaf)
 
 ## Taking Contour Centers and sending it to SAM
 ![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/71136812/7a952dd1-8844-45d8-9fbb-e297f07af9a1)
