@@ -10,11 +10,11 @@ Our main goal is to ensure the well-being of trees by optimizing sunlight penetr
 
   2.Color based Clustering using DBSCAN to cluster trees from background.
 
-  3.
+  3.Used Canny edge detector to then find the bounding boxes. 
 
-  4.Used pre trained Segment Anything Model by meta.
+  4.Used pre trained Segment Anything Model(SAM) by meta.
 
-  5.
+  5.We used the the centers of the bounding boxes from step 3 to segment the trees using SAM.
 
 ## References
 
