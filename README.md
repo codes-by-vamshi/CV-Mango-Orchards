@@ -38,6 +38,11 @@ The Data Set is collection of drone images from a Mango Orchards from Uttar Prad
 ## Find bounding boxes formed after edge detection on images that have been clustered by K-Means
 ![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/43864231-72bc-44d1-bc97-8d153049b3a3)
 
+## Appling Segment Anything Model
+![image](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/05d438ef-6e2d-446d-9c84-9720a9bdd16a)
+
+## Taking Contour Centers and sending it to SAM
+
 
  ## References
 
