@@ -25,3 +25,6 @@ The Data Set is collection of drone images from a Mango Orchards from Uttar Prad
   [1] https://link.springer.com/chapter/10.1007/978-3-642-27311-7_79
   
   [2] https://www.modelbit.com/blog/deploying-a-segment-anything-image-recognition-model-to-a-rest-endpoint
+
+## Original Image 
+![img2](https://github.com/codes-by-vamshi/CV-Mango-Orchards/assets/158031487/de1f9490-abe6-470c-8132-a7e94183fe75)
